@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋. I'm Yuber Hernany Tapias
+
+I am a math teacher and I use Python in my job. 
+
+- 🔭 I’m currently working for Universidad de Antioquia.
+- 🌱 I’m currently learning machine learning.
 
 <!--
 **YuberHernany/YuberHernany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
